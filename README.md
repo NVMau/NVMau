@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)](https://twitter.com/mau_sike)
+
+<!-- [![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)](https://twitter.com/mau_sike)-->
 <h1 align="center">Hi 👋, I'm Mau</h1>
 <h3 align="center">Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
