@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Mau</h1>
 <h3 align="center">Backend Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://assets.pinterest.com/ext/embed.html?id=357051076720197657">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvmau&label=Profile%20views&color=0e75b6&style=flat" alt="nvmau" /> </p>
 
