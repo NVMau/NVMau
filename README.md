@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/mau_sike" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mau_sike?logo=twitter&style=for-the-badge" alt="https://twitter.com/mau_sike" /></a> </p>
 
-- 🌱 I’m currently learning **Flask,Django, Python**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **GPT, Claude Ai**
+- 💬 Ask me about **Back-End Problem**
 
-- 📫 How to reach me **nmau4556@gmail.com**
+- 📫 How to reach me **nmau4669@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
