@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)](https://twitter.com/mau_sike)-->
 <h1 align="center">👋 Welcome to my GitHub profile!</h1>
 <h2 align="center">Full-Stack Developer</h2>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/af0eafc3e89bf2cca2ac8102fbe0f7d6159f5300abc562dbe55a876114d97b5c/68747470733a2f2f7777772e70696e636c69706172742e636f6d2f7069636469722f6269672f3537312d353731383038315f676f706865722d636c69702d6172742d706e672d636c69706172742e706e67">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvmau&label=Profile%20views&color=0e75b6&style=flat" alt="nvmau" /> </p>
