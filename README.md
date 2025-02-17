@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvmau&label=Profile%20views&color=0e75b6&style=flat" alt="nvmau" /> </p>
 
-- 💻 Full-stack by passion, 📚 learning by habit.
+- 💻 🛌🏼 🏋🏼‍♂️ 📚 🔁 .
 - 📫 How to reach me **nmau4669@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
