@@ -24,8 +24,8 @@
 
 <h2 id="️-my-outstanding-repo">✨ Recent Projects:</h2>
 
-<a href="https://github.com/NVMau/SkillHub_Microservice">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=SkillHub_Microservice&theme=dark" />
+<a href="https://github.com/NVMau/SkillHub-Microservice-with-CI-CD">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=SkillHub-Microservice-with-CI-CD&theme=dark" />
 </a>   
 <a href="https://github.com/NVMau/FE_EDDUMANAGER">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=FE_EDDUMANAGER&theme=dark" />
