@@ -1,41 +1,108 @@
-<!-- [![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)](https://twitter.com/mau_sike)-->
-<h1 align="center">👋 Welcome to my GitHub profile!</h1>
-<h2 align="center">Full-Stack Developer</h2>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/af0eafc3e89bf2cca2ac8102fbe0f7d6159f5300abc562dbe55a876114d97b5c/68747470733a2f2f7777772e70696e636c69706172742e636f6d2f7069636469722f6269672f3537312d353731383038315f676f706865722d636c69702d6172742d706e672d636c69706172742e706e67">
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVlYXE1YTJncG51NGFwanUwOW1nemJ0ZHYzcDdqZnhpaXV1aWNpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100" />
 
+  <h1>Hi there, I'm <a href="https://github.com/NVMau">Mau Van</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nvmau&label=Profile%20views&color=0e75b6&style=flat" alt="nvmau" /> </p>
-
-- 💻 🛌🏼 🏋🏼‍♂️ 📚 🔁 .
-- 📫 How to reach me **nmau4669@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mau_sike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mau_sike" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mau-van-a95a611bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/beosbuj1001_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/beosbuj1001_/" height="30" width="40" /></a>
-</p>
-<div style="display: flex; align-items: center;">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Google+Search+Expert+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;Always+Learning..." alt="Typing SVG" />
+  </a>
 </div>
-<h3>🔧:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nvmau&show_icons=true&locale=en&layout=compact" alt="nvmau" style="margin-left: 20px;" />
 
-<h2 id="️-my-outstanding-repo">✨ Recent Projects:</h2>
+<div align="center">
+  <a href="https://github.com/NVMau">
+    <img src="https://komarev.com/ghpvc/?username=nvmau&label=Profile%20views&color=blueviolet&style=flat" alt="nvmau" />
+  </a>
+  <br/>
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/mau-van-a95a611bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://twitter.com/mau_sike" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/beosbuj1001_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:nmau4669@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<a href="https://github.com/NVMau/SkillHub-Microservice-with-CI-CD">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=SkillHub-Microservice-with-CI-CD&theme=dark" />
-</a>   
-<a href="https://github.com/NVMau/FE_EDDUMANAGER">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=FE_EDDUMANAGER&theme=dark" />
-</a>   
-<a href="https://github.com/NVMau/Studyhub_Project">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=Studyhub_Project&theme=dark" />
-</a>   
-<a href="https://github.com/NVMau/SpecManagement">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=SpecManagement&theme=dark" />
-</a>   
+<br/>
 
-<p> </p>
+<div align="center">
+ 💻 . 🛌🏼 . 🏋🏼‍♂️ .  📚 . 🔁
+</div>
 
+<hr/>
+
+<h2 align="left">🛠 Tech Stack</h2>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="100" valign="middle"><b>Backend</b></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,go,cs,python&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="100" valign="middle"><b>Frontend</b></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="100" valign="middle"><b>Database</b></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="100" valign="middle"><b>DevOps</b></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,aws,kafka,nginx,githubactions&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- <h2 align="left">📈 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NVMau&show_icons=true&theme=dark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVMau&layout=compact&theme=dark" alt="Top Langs" height="180"/>
+</div>
+<br/>
+
+<h2 align="left">✨ Recent Projects</h2>
+<div align="center">
+  <a href="https://github.com/NVMau/SkillHub-Microservice-with-CI-CD">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=SkillHub-Microservice-with-CI-CD&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/NVMau/FE_EDDUMANAGER">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=FE_EDDUMANAGER&theme=tokyonight" />
+  </a>
+  <br/> 
+  <a href="https://github.com/NVMau/Studyhub_Project">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=Studyhub_Project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/NVMau/SpecManagement">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVMau&repo=SpecManagement&theme=tokyonight" />
+  </a>
+</div>
+
+<br/> -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NVMau&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
