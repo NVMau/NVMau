@@ -65,7 +65,7 @@
       </td>
     </tr>
     <tr>
-      <td width="100" valign="middle"><b>DevOps</b></td>
+      <td width="100" valign="middle"><b>Tools</b></td>
       <td>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=docker,aws,kafka,nginx,githubactions&theme=dark" />
@@ -103,6 +103,6 @@
 
 <br/> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NVMau&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
+</div> -->
