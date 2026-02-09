@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/NVMau">
-    <img src="https://komarev.com/ghpvc/?username=nvmau&label=Profile%20views&color=blueviolet&style=flat" alt="nvmau" />
-  </a>
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Google+Search+Expert+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;Freelancer;Always+Learning..." alt="Typing SVG" />
+</a>
   <br/>
   <br/>
   
